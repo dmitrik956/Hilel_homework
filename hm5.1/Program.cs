@@ -16,3 +16,12 @@ catch
 {
     Console.WriteLine("Делить на 0 невозможно");
 }
+try
+{
+    int n1 * n2;
+    Console.WriteLine(res);
+}
+catch
+{
+    Console.WriteLine("Неккоректный формат числа");
+}
