@@ -1,0 +1,5 @@
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm5.1\obj\Debug\net8.0\hm5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm5.1\obj\Debug\net8.0\hm5.1.AssemblyInfoInputs.cache
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm5.1\obj\Debug\net8.0\hm5.1.AssemblyInfo.cs
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm5.1\obj\Debug\net8.0\hm5.1.csproj.CoreCompileInputs.cache
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm5.1\obj\Debug\net8.0\hm5.1.sourcelink.json
