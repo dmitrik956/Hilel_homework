@@ -1,0 +1,14 @@
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\bin\Debug\net8.0\hm4.1.exe
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\bin\Debug\net8.0\hm4.1.deps.json
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\bin\Debug\net8.0\hm4.1.runtimeconfig.json
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\bin\Debug\net8.0\hm4.1.dll
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\bin\Debug\net8.0\hm4.1.pdb
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\obj\Debug\net8.0\hm4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\obj\Debug\net8.0\hm4.1.AssemblyInfoInputs.cache
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\obj\Debug\net8.0\hm4.1.AssemblyInfo.cs
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\obj\Debug\net8.0\hm4.1.csproj.CoreCompileInputs.cache
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\obj\Debug\net8.0\hm4.1.dll
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\obj\Debug\net8.0\refint\hm4.1.dll
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\obj\Debug\net8.0\hm4.1.pdb
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\obj\Debug\net8.0\hm4.1.genruntimeconfig.cache
+C:\Users\Pasinok\Desktop\VS\Hilel_hm\Hilel_hm\hm4.1\obj\Debug\net8.0\ref\hm4.1.dll
