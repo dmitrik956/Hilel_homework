@@ -1,0 +1,15 @@
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\obj\Debug\net8.0\hm6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\obj\Debug\net8.0\hm6.1.AssemblyInfoInputs.cache
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\obj\Debug\net8.0\hm6.1.AssemblyInfo.cs
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\obj\Debug\net8.0\hm6.1.csproj.CoreCompileInputs.cache
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\obj\Debug\net8.0\hm6.1.sourcelink.json
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\bin\Debug\net8.0\hm6.1.exe
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\bin\Debug\net8.0\hm6.1.deps.json
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\bin\Debug\net8.0\hm6.1.runtimeconfig.json
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\bin\Debug\net8.0\hm6.1.dll
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\bin\Debug\net8.0\hm6.1.pdb
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\obj\Debug\net8.0\hm6.1.dll
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\obj\Debug\net8.0\refint\hm6.1.dll
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\obj\Debug\net8.0\hm6.1.pdb
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\obj\Debug\net8.0\hm6.1.genruntimeconfig.cache
+C:\Users\Pasinok\Desktop\VS\Github_hilel\hm6.1\hm6.1\obj\Debug\net8.0\ref\hm6.1.dll
