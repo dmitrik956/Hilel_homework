@@ -1,0 +1,15 @@
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\bin\Debug\net8.0\hm7.1.exe
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\bin\Debug\net8.0\hm7.1.deps.json
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\bin\Debug\net8.0\hm7.1.runtimeconfig.json
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\bin\Debug\net8.0\hm7.1.dll
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\bin\Debug\net8.0\hm7.1.pdb
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\obj\Debug\net8.0\hm7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\obj\Debug\net8.0\hm7.1.AssemblyInfoInputs.cache
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\obj\Debug\net8.0\hm7.1.AssemblyInfo.cs
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\obj\Debug\net8.0\hm7.1.csproj.CoreCompileInputs.cache
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\obj\Debug\net8.0\hm7.1.sourcelink.json
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\obj\Debug\net8.0\hm7.1.dll
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\obj\Debug\net8.0\refint\hm7.1.dll
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\obj\Debug\net8.0\hm7.1.pdb
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\obj\Debug\net8.0\hm7.1.genruntimeconfig.cache
+C:\Users\Pasinok\Desktop\VS\Github_hilel\Новая папка\hm7.1\hm7.1\obj\Debug\net8.0\ref\hm7.1.dll
