@@ -273,3 +273,6 @@ atlassian-ide-plugin.xml
 .*/
 
 out/
+git rm -r --cached .
+git add .
+git commit -m "Обновил .gitignore"
